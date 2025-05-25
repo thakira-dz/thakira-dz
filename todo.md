@@ -1,11 +1,12 @@
-- [X] setup the .github health files
-- [ ] add brand files to .github repo
-- [ ] an inhanced README files
+- [X] Setup the .github health files
+- [ ] Assets folder
+- [ ] Docs
+- [ ] an enhanced README file
 ### automations
-- [ ] setup github actions
-  - [X] pdf and docx generator
-  - [X] pr labeler
-  - [X] issues labeler
+- [ ] Setup GitHub Actions
+  - [X] PDF and docx generator
+  - [X] pr labeller
+  - [X] issues labeller
   - [X] Releaser
 ### workflows to try
-- [ ] try deno later it has some efficient tools!
+- [ ] Try Deno later, it has some efficient tools!
