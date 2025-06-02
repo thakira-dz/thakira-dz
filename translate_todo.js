@@ -2,7 +2,7 @@ const fs = require('fs');
 const translate = require('@vitalets/google-translate-api');
 
 // Read the original TODO.md
-const input = fs.readFileSync('TODO.md', 'utf8');
+const input = fs.readFileSync('todo.md', 'utf8');
 
 // Translate content to Arabic
 translate(input, { to: 'ar' })
