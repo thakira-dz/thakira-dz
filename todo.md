@@ -1,9 +1,8 @@
-- [X] Setup the .github health files
-- [ ] Assets folder (@mouadhbendjedidi)
-- [ ] Docs (@mouadhbendjedidi && @oubaibendjedidi)
-- [ ] an enhanced README file (assigned to @oubaibendjedidi)
+- [ ] Assets folder
+- [ ] Docs
+- [ ] an enhanced README file
 ### automations
-- [ ] Setup GitHub Actions (@mouadhbendjedidi)
+- [ ] Setup GitHub Actions
   - [ ] PDF and docx generator
   - [X] pr labeller
   - [X] issues labeller
