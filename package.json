@@ -1,7 +1,0 @@
-{
-  "name": "translate-todo",
-  "version": "1.0.0",
-  "dependencies": {
-    "@vitalets/google-translate-api": "^8.0.0"
-  }
-}
