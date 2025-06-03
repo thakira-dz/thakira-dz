@@ -1,4 +1,4 @@
-- [ ] Assets folder
+- [ ] Brand Files
 - [ ] Docs
 - [ ] an enhanced README file
 ### automations
