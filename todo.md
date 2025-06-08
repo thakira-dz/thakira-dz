@@ -3,7 +3,7 @@
 - [ ] an enhanced README file
 ### automations
 - [ ] Setup GitHub Actions
-  - [ ] PDF and docx generator
+  - [ ] PDF and docx generator (templates)
   - [X] pr labeller
   - [X] issues labeller
   - [X] Releaser
